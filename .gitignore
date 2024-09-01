@@ -1,0 +1,6 @@
+*.eml
+*.pdf
+token*.json
+credentials*.json
+edp-invoices-gmail
+config.yaml
